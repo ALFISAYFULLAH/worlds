@@ -202,7 +202,6 @@
       </link>
     </model>
 
-    <!-- == DP9  tengah lapangan  (0, 0) — RED+BLUE == -->
     <model name="dp9_pad_red">
       <static>true</static>
       <pose>0.6 0 0.03 0 0 0</pose>
@@ -252,7 +251,7 @@
       </link>
     </model>
 
-    <model name="lorong_labirin_abu">
+    <model name="IndoorArena">
       <static>true</static>
       <pose>0 32.5 0 0 0 3.141593</pose>
 
